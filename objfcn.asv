@@ -1,0 +1,3 @@
+function fitness=objfcn(x,y,w,b,lambda)
+   cost = 
+end
