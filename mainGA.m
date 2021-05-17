@@ -1,6 +1,6 @@
 function best = mainGA(N, x, y, maxNum, lambda)
     %% initial population:
-    maxGen=1000;
+    maxGen=100;
     popsize=50;
     ER=0.1;
     NN= round(0.5 * popsize);
